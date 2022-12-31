@@ -45,4 +45,6 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
 ![Desktop_view_two](https://user-images.githubusercontent.com/45993850/210153882-eb2be9e5-2af9-469c-b791-e162b8d6cc81.png)
+![Mobile_view_two](https://user-images.githubusercontent.com/45993850/210153950-73b7953c-4868-427a-a1f7-ae32336716af.png)
+
 
